@@ -6,8 +6,8 @@ class ConfirmDialog {
     // set up the buttons
     final Widget playAgainButton = FlatButton(
       onPressed: () {
-        Navigator.of(context).pop();
-        playAgainPressed();
+        // pop the dialog
+        // call the restartGame method 
       },
       child: const Text("Play Again",
           style: TextStyle(color: Colors.black, fontSize: 20)),
