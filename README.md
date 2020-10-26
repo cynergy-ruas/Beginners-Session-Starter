@@ -9,7 +9,7 @@
 
 ---
 
-* ###  The Traditional Approch 
+* ###  The Traditional Approach 
 
 > When you look back 10 years ago people used to design and develop mobile apps in a pure programming language 
 > * #### Example 
@@ -23,7 +23,7 @@
 
 ---
 * ###  The Modern Approach 
-> Welcome to the Modern era where people want a quick output so they decided to go with frameworks since 2015 developing mobile appliations have been lot easier with frameworks 
+> Welcome to the Modern era where people want a quick output so they decided to go with frameworks since 2015 developing mobile applications have been a lot easier with frameworks 
 >> * #### What are frameworks ?
 >>>  Let's just say for you to understand what frameworks are suppose you are building something so if you are doing it there are two ways to do it one would be buying all the stuff required for you to build and the other way would be you buying the whole thing. 
     
@@ -68,7 +68,7 @@ Hope you all undestood ,
 
 * #### [Dart Basics](https://dart.dev/guides/language/specifications/DartLangSpec-v2.2.pdf "Dart PDF")
 > Complete brief about what dart programming language.
-* #### [Flutter Basics](https://github.com/cynergy-ruas/Beginners-Session-Starter/blob/Docs/flutter-session-1.pdf) 
+* #### [Flutter Basics](shymanthlink) 
 > Just to get you started with flutter and what widgets are if you wish to read an advance document then this will help you [Advance Document](https://flutter.dev/docs/development/ui/widgets-intro "Flutter Advance ").
 * #### [Animations Widgets Basics](https://flutter.dev/docs/development/ui/widgets/animation "Animation Wigets")
 > 
@@ -97,6 +97,4 @@ Hope you all undestood ,
 
 
 <p align="center">
-  <img src = "https://media.giphy.com/media/kF5w7HWRrW1YJuY7qv/source.gif">
- </p>
-
+  <img src = "https://
