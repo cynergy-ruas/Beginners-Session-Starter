@@ -68,7 +68,7 @@ Hope you all undestood ,
 
 * #### [Dart Basics](https://dart.dev/guides/language/specifications/DartLangSpec-v2.2.pdf "Dart PDF")
 > Complete brief about what dart programming language.
-* #### [Flutter Basics](shymanthlink) 
+* #### [Flutter Basics](https://github.com/cynergy-ruas/Beginners-Session-Starter/blob/Docs/flutter-session-1.pdf) 
 > Just to get you started with flutter and what widgets are if you wish to read an advance document then this will help you [Advance Document](https://flutter.dev/docs/development/ui/widgets-intro "Flutter Advance ").
 * #### [Animations Widgets Basics](https://flutter.dev/docs/development/ui/widgets/animation "Animation Wigets")
 > Complete documentaion required for 2D animations on flutter
