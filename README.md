@@ -71,7 +71,7 @@ Hope you all undestood ,
 * #### [Flutter Basics](shymanthlink) 
 > Just to get you started with flutter and what widgets are if you wish to read an advance document then this will help you [Advance Document](https://flutter.dev/docs/development/ui/widgets-intro "Flutter Advance ").
 * #### [Animations Widgets Basics](https://flutter.dev/docs/development/ui/widgets/animation "Animation Wigets")
-> 
+> Complete documentaion required for 2D animations on flutter
 ---
 * ###  Youtube 
 
@@ -96,7 +96,7 @@ Hope you all undestood ,
 ### Let's Begin 
 
 
-
 <p align="center">
   <img src = "https://media.giphy.com/media/kF5w7HWRrW1YJuY7qv/source.gif">
  </p>
+
