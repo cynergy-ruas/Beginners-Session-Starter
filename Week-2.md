@@ -5,7 +5,7 @@
 
 NOTE: follow these point below in the given order for quick Learning : 
 
-## Backened Related :)
+## Backend Related :)
 
 ### Rest API
 
@@ -72,7 +72,7 @@ NOTE: follow these point below in the given order for quick Learning :
 - [lazy load video](https://www.youtube.com/watch?v=JaVjHDdoVOg)
 - [swipe to delete / pull to refresh](https://www.youtube.com/watch?v=nUvCoATMb68)
 
-### Connecting Your Flutter App with Rest API (Backened) 
+### Connecting Your Flutter App with Rest API (Backend) 
 
  - [basic method](https://www.javatpoint.com/flutter-rest-api) 
  - [advanced tutorial](https://www.raywenderlich.com/5896601-flutter-networking-tutorial-getting-started)
